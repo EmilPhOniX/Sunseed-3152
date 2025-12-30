@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 946a1efb7655ef346b4ce15d2152a4e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - seedPlantedPrefab: {fileID: 7255197248309486715, guid: 71473062f9329a843b1323c291c2dd40, type: 3}
+  - seedWatteredPrefab: {fileID: 3060855590954741360, guid: 2317170656d9a954d8902cc38cc9f622, type: 3}
+  - seedGrowingPrefab: {fileID: 4833712484032484119, guid: 707a9120e9079f7498212689747401ca, type: 3}
+  - seedReadyPrefab: {fileID: 2318022439663672933, guid: 13d4d5965c864f34d9531a0f3151ec09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
